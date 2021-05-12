@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/logicmonitor/lm-sdk-go/models"
+	models "github.com/vkumbhar94/lm-sdk-go/models"
 )
 
 // UpdateDeviceDatasourceInstanceAlertSettingByIDReader is a Reader for the UpdateDeviceDatasourceInstanceAlertSettingByID structure.

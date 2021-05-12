@@ -21,7 +21,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	"github.com/logicmonitor/lm-sdk-go/v2/client/lm"
+	"github.com/vkumbhar94/lm-sdk-go/v2/client/lm"
 )
 
 const (

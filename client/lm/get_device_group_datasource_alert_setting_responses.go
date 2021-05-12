@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/logicmonitor/lm-sdk-go/models"
+	models "github.com/vkumbhar94/lm-sdk-go/models"
 )
 
 // GetDeviceGroupDatasourceAlertSettingReader is a Reader for the GetDeviceGroupDatasourceAlertSetting structure.
