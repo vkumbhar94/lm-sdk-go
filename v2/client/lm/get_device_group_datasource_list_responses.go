@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/logicmonitor/lm-sdk-go/v2/models"
+	models "github.com/vkumbhar94/lm-sdk-go/v2/models"
 )
 
 // GetDeviceGroupDatasourceListReader is a Reader for the GetDeviceGroupDatasourceList structure.

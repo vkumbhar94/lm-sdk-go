@@ -1,5 +1,5 @@
 # lm-sdk-go
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/logicmonitor/lm-sdk-go)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/vkumbhar94/lm-sdk-go)
 
 Getting Started
 ---------------
@@ -9,8 +9,8 @@ package main
 
 import (
     "fmt"
-    "github.com/logicmonitor/lm-sdk-go/client"
-    "github.com/logicmonitor/lm-sdk-go/client/lm"
+    "github.com/vkumbhar94/lm-sdk-go/client"
+    "github.com/vkumbhar94/lm-sdk-go/client/lm"
 )
 
 func NewLMClient() *client.LMSdkGo {
@@ -32,4 +32,4 @@ func main() {
 ```
 
 ### License
-[![license](https://img.shields.io/github/license/logicmonitor/lm-sdk-go.svg?style=flat-square)](https://github.com/logicmonitor/lm-sdk-go/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/logicmonitor/lm-sdk-go.svg?style=flat-square)](https://github.com/vkumbhar94/lm-sdk-go/blob/master/LICENSE)
